@@ -1,0 +1,130 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "com.misery.mocha.tutorial.intermediate.Test",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Interfaces",
+      "request": "launch",
+      "mainClass": "com.misery.mocha.tutorial.intermediate.Interfaces",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch CopyFile",
+      "request": "launch",
+      "mainClass": "com.misery.mocha.examples.CopyFile",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Enums",
+      "request": "launch",
+      "mainClass": "com.misery.mocha.tutorial.intermediate.Enums",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReadProperties",
+      "request": "launch",
+      "mainClass": "com.misery.mocha.examples.ReadProperties",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReadFile",
+      "request": "launch",
+      "mainClass": "com.misery.mocha.tutorial.ReadFile",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch UserInput",
+      "request": "launch",
+      "mainClass": "com.misery.mocha.tutorial.UserInput",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch GetSysProperties",
+      "request": "launch",
+      "mainClass": "com.misery.mocha.examples.GetSysProperties",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch MochaScriptDriver",
+      "request": "launch",
+      "mainClass": "MochaScriptDriver",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch GetSysProperties",
+      "request": "launch",
+      "mainClass": "GetSysProperties",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReadProperties",
+      "request": "launch",
+      "mainClass": "ReadProperties",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReadFile",
+      "request": "launch",
+      "mainClass": "ReadFile",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Arrays",
+      "request": "launch",
+      "mainClass": "Arrays",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch LogicAndFlow",
+      "request": "launch",
+      "mainClass": "LogicAndFlow",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Variables",
+      "request": "launch",
+      "mainClass": "Variables",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch DataTypes",
+      "request": "launch",
+      "mainClass": "DataTypes",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch UserInput",
+      "request": "launch",
+      "mainClass": "UserInput",
+      "projectName": "MochaScript_c9e1811b"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "MochaScript_c9e1811b"
+    }
+  ]
+}

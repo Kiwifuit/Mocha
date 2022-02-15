@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.misery.mocha.examples"},{"l":"com.misery.mocha.tutorial.basic"},{"l":"com.misery.mocha.tutorial.exceptions"},{"l":"com.misery.mocha.tutorial.intermediate"}]
